@@ -24,7 +24,7 @@
 ### Ссылки и изображения
 
 - [Пример ссылки](https://example.com)
-- ![Пример изображения](https://via.placeholder.com/150)
+- ![Пример изображения]([https://via.placeholder.com/150](https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg))
 
 ## Заголовок 2: Заключение
 
