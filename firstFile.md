@@ -24,7 +24,10 @@
 ### Ссылки и изображения
 
 - [Пример ссылки](https://example.com)
-- ![Пример изображения](https://avatars.mds.yandex.net/i?id=f53805ab42a551a591544fa2a4c3e54e_l-4600590-images-thumbs&n=13)
+
+-![Пример изображения](https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg)
+
+
 
 ## Заголовок 2: Заключение
 
